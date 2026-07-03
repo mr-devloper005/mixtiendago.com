@@ -13,7 +13,8 @@ export const slot4BrandConfig = {
   productKind,
   ogImage: siteIdentity.ogImage,
   accents: {
-    primary: '#d32323',
-    surface: '#ffffff',
+    // Arooth-inspired deep blue accent, soft blue tinted surfaces.
+    primary: '#0040c1',
+    surface: '#f5faff',
   },
 } as const
